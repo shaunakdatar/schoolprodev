@@ -2,6 +2,7 @@
 /*
 		This file checks for login operation
 		author:Shaunak datar
+		date:8/4/2018
 */
 session_start();
 include 'Connectdb.php';
