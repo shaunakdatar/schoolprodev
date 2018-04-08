@@ -9,7 +9,7 @@ This is demo project for attendance management system
 	<title>Attendance Management</title>
 </head>
 <body>
-	<form name="login_form">
+	<form name="login_form" action="LoginPost.php" method="POST"> 
 		<label>Email Id</label>
 		<input type="text" name="user_email_id">
 		<label>Password</label>
