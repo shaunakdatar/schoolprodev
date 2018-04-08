@@ -1,6 +1,7 @@
 <?php
 /*
 		This file checks for login operation
+		author:Shaunak datar
 */
 session_start();
 include 'Connectdb.php';
